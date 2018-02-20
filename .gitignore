@@ -1,0 +1,12 @@
+dist
+CN1WebServerDemo/dist
+build/classes
+CN1WebServerDemo/build/classes
+private
+*.jar
+lib/impl/cls
+build
+CN1WebserverDemo/lib/impl
+CN1WebserverDemo/.cn1/.lock
+lib/CodenameOne_SRC.zip
+CN1WebserverDemo/lib/CodenameOne_SRC.zip
