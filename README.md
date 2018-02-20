@@ -4,7 +4,7 @@ Run an embedded webserver inside your [Codename One](https://www.codenameone.com
 
 ## Installation
 
-Install via Codename One Settings, or by downloading and copying the CN1Webserver.cn1lib module into your project's lib directory, then right click on your project and select "Codename One > Refresh Cn1libs".
+Install via Codename One Settings, or by downloading and copying the [CN1Webserver.cn1lib](bin/CN1Webserver.cn1lib) module into your project's lib directory, then right click on your project and select "Codename One > Refresh Cn1libs".
 
 ### iOS Transport Settings
 
